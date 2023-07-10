@@ -1,0 +1,10 @@
+*{
+    background-image: url(images/11.jpg);
+    /* background-size: cover; */
+    /* background-repeat: repeat-y; */
+    /* background-repeat: none; */
+    /* background-repeat: repeat-x; */
+    background-size: contain;
+    background-size: 303px 400px;
+
+}

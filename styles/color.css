@@ -1,0 +1,24 @@
+*{
+    padding: 0;
+    margin: 0;
+    background: purple;
+}
+.hi{
+    width: 50%;
+    background: rgba(42, 165, 134, 0.603);
+    border: 20px solid rgba(255, 99, 71, 0.644);
+    /* border-top: 10px solid; */
+    border-radius: 10px;
+    margin: 20px 30px; 
+    /* margin: 20px 30px; TB LR  */
+    /* margin: 10px 50px 100px; T LR B */
+    /* margin: 10px 50px 90px 900px; clockwise  */
+    /* padding full margin ar mot ballo bosano gai  */
+    box-shadow: 10px 10px 20px teal;
+    padding: 20px;
+    display: ;
+}
+.six{
+    /* display: none; */
+    visibility: hidden;
+}
